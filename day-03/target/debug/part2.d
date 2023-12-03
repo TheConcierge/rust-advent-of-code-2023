@@ -1,0 +1,1 @@
+/home/one-one/Documents/code/rust-advent-of-code-2023/day-03/target/debug/part2: /home/one-one/Documents/code/rust-advent-of-code-2023/day-03/src/bin/input1.txt /home/one-one/Documents/code/rust-advent-of-code-2023/day-03/src/bin/part2.rs
