@@ -76,7 +76,6 @@ fn part2(input: &str) -> String {
     let mut total = 0;
 
     let part_coords = get_number_coords(input);
-    println!("{:#?}", part_coords);
 
     for (row, line) in input.split("\n").enumerate() {
         // add an extra "." to the end of every line. this should solve the issue of a

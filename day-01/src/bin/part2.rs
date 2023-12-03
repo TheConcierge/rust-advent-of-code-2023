@@ -119,7 +119,6 @@ fn part2(input: &str) -> String {
         right = more_right(part, "9", "nine", right);
 
         let found = format!("{}{}", left.value, right.value);
-        println!("{}", found);
         let result = found.parse::<i32>();
         total = match result {
             Ok(x) => total + x,
